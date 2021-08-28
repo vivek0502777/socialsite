@@ -1,0 +1,8 @@
+django
+Pillow
+image
+python-social-auth
+redis
+social-auth-app-django
+social-auth-core
+sorl-thumbnail
